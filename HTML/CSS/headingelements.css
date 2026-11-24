@@ -1,18 +1,18 @@
-h1{
-    color:blueviolet;
+#book-title{
+    color:darkred;
 }
 p{
     color:hotpink
 }
-h2{
-    color:blue;
+.chapter{
+    color:darkgreen;
 }
-h3{
+.section{
     color:rgb(19, 118, 175);
 }
 h4{
     color:#ff15;
 }
 hr{
-    color:1px solid chocolate;
+    border:1px solid chocolate;
 }
