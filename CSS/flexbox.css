@@ -1,0 +1,24 @@
+.container{
+    display:flex;
+    flex-direction:column;
+
+}
+.box:nth-child(1){
+ background-color:pink;
+ margin:5px;
+ padding:3px;
+
+
+}
+.box:nth-child(2){
+    background-color:lightblue;
+    margin:5px;
+    padding:3px;    
+
+
+}
+.box:nth-child(3){
+    background-color:lightgreen;
+    margin:5px;
+    padding:3px;
+}
